@@ -9,7 +9,7 @@ import Squares from './components/Squares';
 import Programmers from './components/Programmers';
 
 render(
-  <>
+  <>m
     <Counter />
     <Moods />
     <Spinner />
